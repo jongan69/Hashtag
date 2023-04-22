@@ -7,7 +7,7 @@ export default function Page() {
       <View style={styles.main}>
         <Text style={styles.title}>Welcome to Hashtag</Text>
         <Text style={styles.subtitle}>A Web3 Social Media</Text>
-        <Link href="/Home">Start Here</Link>
+        <Link href="/Login">Start Here</Link>
       </View>
     </View>
   );
